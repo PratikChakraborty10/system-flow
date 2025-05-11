@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   },
   typescript: {
     ignoreBuildErrors: true, // Ignore type errors temp
-  },git
+  },
 };
 
 export default nextConfig;
